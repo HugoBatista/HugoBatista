@@ -1,6 +1,4 @@
-### Hi there 👋
-- 🔭 I’m currently working on FrontEnd ...
-- 🌱 I’m currently learning React Native
+
 
 <div align="center">
   <a href="https://github.com/HugoBatista">
