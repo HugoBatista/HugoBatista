@@ -55,12 +55,17 @@ Hey, I'm Hugo,  and I'm a 19 years old Web Developer. I'm Portuguese. In my free
 	<img title="JavaScript" alt="JavaScript" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </a>
 
+<a target="_blank" href="https://w3schools.com/php">
+	<img title="JavaScript" alt="JavaScript" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+</a>
+
+<a target="_blank" href="https://w3schools.com/mysql">
+	<img title="JavaScript" alt="JavaScript" align="center" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</a>
 
 ### Frameworks:
 
-<a target="_blank" href="https://nodejs.org/en">
-	<img title="Node.js" alt="Node.js" width="40px" src="https://nodejs.org/static/images/favicons/apple-touch-icon.png">
-</a>
+
 
 <a target="_blank" href="https://reactnative.dev">
 	<img title="React Native" alt="React Native" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
